@@ -1,4 +1,4 @@
 // create web server
-function skillsMember() {
+function memberComments() {
     console.log('Server-side code running');
   }
